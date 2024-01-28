@@ -30,6 +30,4 @@ A passionate web developer from Brazil!!!
 
 <a href="http://www.github.com/lucassantana1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassantana1&stroke=f97316&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=f97316&currStreakLabel=ec4899&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/lucassantana1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucassantana1&bg_color=ffffff&color=f97316&line=3382ed&point=f97316&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/lucassantana1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantana1&langs_count=10&title_color=ec4899&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
