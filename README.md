@@ -8,7 +8,7 @@ A passionate web developer from Brazil!!!
 
 * 🌍  I'm based in Presidente Prudente
 * ✉️  You can contact me at [lucasdeoliveirasantana874@gmail.com](mailto:lucasdeoliveirasantana874@gmail.com)
-* 🧠  I'm learning React, JS, TS, C# and PHP
+* 🧠  I'm learning React, JS, TS and C#
 
 ### Skills
 
